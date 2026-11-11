@@ -247,7 +247,7 @@ p.note { display: none; }
 <h2><span class="yellow">空港内のロボット掃除機</span></h2>
 <a href="20261111_00029.jpeg" target="_blank"><img src="20261111_00029.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">到着ゲートからロビーまでの距離がすごい、さすがスワンナプーム広いです</span></h2>
+<h2><span class="yellow">到着ゲートからロビーまでの距離がすごい、さすがスワンナプーム国際空港、広いです</span></h2>
 <a href="20261111_00030.jpeg" target="_blank"><img src="20261111_00030.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">空港出ると、バンコクのバスの派手さに目が行きました</span></h2>
