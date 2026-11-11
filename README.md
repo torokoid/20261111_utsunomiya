@@ -228,7 +228,7 @@ p.note { display: none; }
 <h2><span class="yellow">チェックインが終わって中のコンビニ、大渋滞です</span></h2>
 <a href="20261111_00022.jpeg" target="_blank"><img src="20261111_00022.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">登場する機体の後ろが程よい夕焼け</span></h2>
+<h2><span class="yellow">搭乗する機体の後ろが程よい夕焼け</span></h2>
 <a href="20261111_00023.jpeg" target="_blank"><img src="20261111_00023.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">日暮れどきには見事な夕焼け空</span></h2>
